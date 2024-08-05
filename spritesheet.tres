@@ -3,5 +3,6 @@
 [ext_resource type="Texture2D" uid="uid://ng4q3d1oe7lk" path="res://spritesheet_32bitb4H_6.png" id="1_gll3c"]
 
 [resource]
+vertex_color_use_as_albedo = true
 albedo_texture = ExtResource("1_gll3c")
 texture_filter = 0
